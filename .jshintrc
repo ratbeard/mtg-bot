@@ -1,0 +1,6 @@
+{
+  "node": true,
+  "esnext": true,
+  "asi": true,
+  "sub": true // Turn off suggestion to change `a['b'] => a.b` for test files
+}
