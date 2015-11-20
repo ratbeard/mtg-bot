@@ -1,0 +1,23 @@
+{
+  "name": "mtg-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ratbeard/mtg-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratbeard/mtg-bot/issues"
+  },
+  "homepage": "https://github.com/ratbeard/mtg-bot",
+  "dependencies": {
+    "fuzzyset.js": "0.0.1",
+    "irc": "^0.4.0"
+  }
+}
